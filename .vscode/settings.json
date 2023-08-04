@@ -1,0 +1,12 @@
+{
+    "emmet.preferences": {
+
+    },
+
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+
+    },
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "auto"
+}
